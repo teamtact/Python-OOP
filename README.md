@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Python-OOP.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Python-OOP)
+
 # Python-OOP
 
 
